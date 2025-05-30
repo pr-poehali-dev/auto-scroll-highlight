@@ -66,7 +66,7 @@ const ControlPanel = ({
               </Button>
               <div className="flex-1 bg-gray-700 rounded-full h-2">
                 <div
-                  className="bg-purple-500 h-2 rounded-full transition-all duration-200"
+                  className="h-2 rounded-full transition-all duration-200 bg-red-700"
                   style={{ width: `${speed}%` }}
                 />
               </div>
