@@ -84,7 +84,7 @@ const ControlPanel = ({
           {/* Прогресс */}
           <div className="space-y-2">
             <div className="flex justify-between text-sm text-gray-400">
-              <span>Прогресс</span>
+              <span>Прогресссссс</span>
               <span>
                 {activeLineIndex + 1} / {totalLines}
               </span>
