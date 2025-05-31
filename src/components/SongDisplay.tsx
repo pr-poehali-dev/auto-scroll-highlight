@@ -46,7 +46,7 @@ const SongDisplay = ({
   return (
     <div
       ref={scrollContainerRef}
-      className="bg-gray-800 rounded-lg p-6 h-[70vh] overflow-y-auto scroll-smooth"
+      className="rounded-lg p-6 h-[70vh] overflow-y-auto scroll-smooth bg-red-900"
     >
       <div className="space-y-1">
         {lines.map((line, index) => (
